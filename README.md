@@ -14,7 +14,7 @@ _2024.05.~2025.02._
 
 *\# C언어 프로그래밍 코딩 컴퓨터 개발*
 
-#### 💾 LICENSE: [CC BY-NC-SA 4.0][CCL]
+###### 💾 LICENSE: [CC BY-NC-SA 4.0][CCL]
 
 <!-- 참조 링크 -->
 [카카오톡 오픈프로필]: http://open.kakao.com/me/voo247 "박예원 하이샘"
